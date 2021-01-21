@@ -10,3 +10,5 @@ In the Lists page you will find a couple of lists of my favorite things that hav
 In the Table page there is a table of the current NFL passing leaders and their current touchdowns.
 
 In the Image page there is a couple of pictures with captions underneath them.
+
+In the folder are also some Images and a CSS Styelsheet for formatting.
